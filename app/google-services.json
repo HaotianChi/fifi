@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "221552335510",
+    "firebase_url": "https://fifi-76986.firebaseio.com",
+    "project_id": "fifi-76986",
+    "storage_bucket": "fifi-76986.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221552335510:android:433ee157c23de9dd",
+        "android_client_info": {
+          "package_name": "edu.temple.fifi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "221552335510-juqm395i4g9ldrnks0p3213faa6jp9n8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.temple.fifi",
+            "certificate_hash": "425c5ab8dee60197acf1c70fbaa51c235ce11134"
+          }
+        },
+        {
+          "client_id": "221552335510-8b724bhpe4p63rdlbstrve19il8e795c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSIBlRegqbt0_qA954YEpQ71XqRZi2sLM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "221552335510-8b724bhpe4p63rdlbstrve19il8e795c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
